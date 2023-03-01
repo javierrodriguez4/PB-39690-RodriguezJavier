@@ -1,0 +1,12 @@
+{
+    "Productos": [
+        {
+            "id": 1,
+            "title": "iphone 11 pro",
+            "price": 500,
+            "thumbnail": "/home/iphone11",
+            "code": 23123,
+            "stock": 2
+        }
+    ]
+}
