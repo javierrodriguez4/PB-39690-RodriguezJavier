@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/javierrodriguez4/PB-39690-RodriguezJavier/issues"
   },
-  "homepage": "https://github.com/javierrodriguez4/PB-39690-RodriguezJavier#readme"
+  "homepage": "https://github.com/javierrodriguez4/PB-39690-RodriguezJavier#readme",
+  "dependencies": {
+    "joi": "^17.8.3"
+  }
 }

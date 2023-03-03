@@ -1,12 +1,1 @@
-{
-    "Productos": [
-        {
-            "id": 1,
-            "title": "iphone 11 pro",
-            "price": 500,
-            "thumbnail": "/home/iphone11",
-            "code": 23123,
-            "stock": 2
-        }
-    ]
-}
+{"products":[{},{"id":1,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":2,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":3,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":4,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":5,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":6,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":7,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":8,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":9,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":10,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":11,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":12,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":13,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":14,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":15,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":16,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":17,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":18,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":19,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":20,"title":"iphone 14 pro","thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":21,"title":"iphone 14 pro","thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":22,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":23,"title":"iphone 14 pro","price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":24,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":25,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200},{"id":26,"price":50220,"thumbnail":"/home/iphone11","code":23121233,"stock":200}]}
