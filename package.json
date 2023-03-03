@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
+    "start:nodemon": "nodemon index",
+    "start:express":"nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +21,10 @@
   },
   "homepage": "https://github.com/javierrodriguez4/PB-39690-RodriguezJavier#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "joi": "^17.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }
